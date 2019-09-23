@@ -11,5 +11,6 @@ public class Main {
 	}
 	private static void displayGreetings(){
 		System.out.println("welcome to git");
+		System.out.println("HELLO");
 	}
 }
